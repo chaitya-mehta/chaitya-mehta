@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **News App**
-
 - 🌱 I’m currently learning **Node Js, Express Js, Advance of React Js**
 
 - 👯 I’m looking to collaborate on **Mern Developer**
